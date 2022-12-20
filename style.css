@@ -1,0 +1,48 @@
+body{
+    background-image: url(bg.jpg);
+}
+.calender{
+    margin: auto;
+    max-width: 800px;
+    font-family: "papyrus";
+    font-weight: bold;
+    color: black;
+}
+.month{
+    text-align: center;
+    background: yellowgreen;
+    font-size: 80px;
+    letter-spacing: 1px;
+    color: black;
+    border: 3px solid blue;
+}
+p{
+    font-size: 10px;
+    font-family: serif;
+    color: azure;
+}
+table, th, td{
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 27px;
+    border-collapse: collapse;
+    border: 5px solid black;
+    font-family: "papyrus";
+}
+tr, th, td{
+    padding: 15px;
+}
+th{
+ background: #009900;
+ color: aliceblue;
+ font-family: "papyrus";
+}
+td{
+    background: #00264d;
+    color: yellow;  
+}
+td:hover{
+    background: #009900;
+    cursor: pointer;
+}
