@@ -1,3 +1,3 @@
 # calender1
 live preview
-https://github.com/afsanamim153279/calender.git
+https://afsanamim153279.github.io/calender/
